@@ -12,4 +12,4 @@ Apart from web development, I am also a passionate music listener. Since 2020, I
 - HTML / CSS / JS
 
 ## Examples of my work
-<img src="https://github.com/denysovski/denysovski/blob/main/house.png" width="500px" style="float:left"><img src="https://github.com/denysovski/denysovski/blob/main/tok.png" style="float:right" width="500px"> 
+<img src="https://github.com/denysovski/denysovski/blob/main/house.png" width="400px" style="float:left"><img src="https://github.com/denysovski/denysovski/blob/main/tok.png" style="float:right" width="400px"> 
