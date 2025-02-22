@@ -7,6 +7,8 @@ I'm Daniel Svoboda from the Czech Republic. I specialize in design and have a ke
 Apart from web development, I am also a passionate music listener. Since 2020, I have been partly working as a reposter on YouTube, sharing and promoting music content that I love. This work allows me to combine my love for music with content creation and digital promotion.
 ![ggs](https://github.com/user-attachments/assets/bbf07e62-3bdc-4303-a404-d9ed24784159)
 
+## Instagram content 🚀
+I love creating game-related posts online. My content has already generated over 15 million views and gotten 1,000,000 interactions. I enjoy sharing exciting moments and trends that connect with other gamers. I focus on creating controversial topics that will engage a large audience.
 
 ## Skills and experiences
 - Photoshop / Illustrator
