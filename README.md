@@ -11,9 +11,9 @@ Apart from web development, I am also a passionate music listener. Since 2020, I
 I love creating game-related posts online. My content has already generated over 15 million views and gotten 1,000,000 interactions. I enjoy sharing exciting moments and trends that connect with other gamers. I focus on creating controversial topics that will engage a large audience.
 
 ## Skills and experiences
-- Photoshop / Illustrator
-- Unity
-- HTML / CSS / JS
+• Webdesign / Graphics design
+• Front-end development
+• Social media manager
 
 ## Examples of my work
 <img src="https://github.com/denysovski/denysovski/blob/main/house.png" width="420px" style="float:left"><img src="https://github.com/denysovski/denysovski/blob/main/tok.png" style="float:right" width="420px"> 
