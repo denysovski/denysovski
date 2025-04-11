@@ -13,7 +13,7 @@ I love creating game-related posts online. My content has already generated over
 ## Skills and experiences
 - Webdesign / Graphics design
 - Front-end development
-- Social media manager
+- Social media management
 
 ## Examples of my work
 <img src="https://github.com/denysovski/denysovski/blob/main/house.png" width="420px" style="float:left"><img src="https://github.com/denysovski/denysovski/blob/main/tok.png" style="float:right" width="420px"> 
