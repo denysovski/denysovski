@@ -14,3 +14,6 @@ I love creating game-related posts online. My content has already generated over
 - Webdesign / Graphics design
 - Front-end development
 - Social media management
+
+## Graphic Designer
+To view my graphic design work, visit my Behance profile where I showcase most of my final projects.
