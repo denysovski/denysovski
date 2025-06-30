@@ -16,4 +16,4 @@ I love creating game-related posts online. My content has already generated over
 - Social media management
 
 ## Graphic Designer
-To view my graphic design work, visit my Behance profile where I showcase most of my final projects.
+To view my graphic design work, visit my [Behance profile](https://www.behance.net/denysovski) where I showcase most of my final projects.
