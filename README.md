@@ -11,7 +11,7 @@ Apart from web development, I am also a passionate music listener. Since 2020, I
 I love creating game-related posts online. My content has already generated over 25 million views and gotten 5,000,000 interactions. I enjoy sharing exciting moments and trends that connect with other gamers. I focus on creating controversial topics that will engage a large audience.
 
 ## Skills and experiences
-- Webdesign / Graphics design
+- Webdesign / Graphic design
 - Front-end development
 - Social media management
 
