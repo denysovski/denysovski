@@ -1,6 +1,6 @@
 <img src="https://github.com/denysovski/denysovski/blob/main/background.jpg"> 
 
-# Daniel Svoboda
+# About Me
 I'm located in Czech Republic. I specialize in design and have a keen interest in web development. My expertise lies mostly in frontend. I am dedicated to building visually appealing and user-friendly web applications.
 
 ## Music and YouTube 🔴
