@@ -8,7 +8,9 @@ Apart from web development, I am also a passionate music listener. Since 2020, I
 ![ggs](https://github.com/user-attachments/assets/bbf07e62-3bdc-4303-a404-d9ed24784159)
 
 ## Instagram content 🚀
-I love creating game-related posts online. My content has already generated over 25 million views and gotten 5,000,000 interactions. I enjoy sharing exciting moments and trends that connect with other gamers. I focus on creating controversial topics that will engage a large audience.
+I love creating game-related posts online. My content has already generated over 25 million views worldwide and gotten 5,000,000 interactions. I enjoy sharing exciting moments and trends that connect with other gamers. I focus on creating controversial topics that will engage a large audience.
+<img alt="Untitled-1" src="https://github.com/user-attachments/assets/e219ff34-c210-4b43-b83b-a6c7668af469" />
+
 
 ## Skills and experiences
 - Webdesign / Graphic design
