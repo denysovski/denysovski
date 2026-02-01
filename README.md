@@ -9,7 +9,6 @@ I’m also deeply involved in music. Since 2020, I’ve worked as a YouTube repo
 
 ## Instagram content 
 Beyond development and design, I create high-performing Instagram content. For over a year, my content has consistently reached 2 million views every month, generating around 500,000 user interactions monthly. I focus on bold, controversial, and engaging topics designed to drive attention and discussion at scale.
-<img alt="Untitled-1" src="https://github.com/user-attachments/assets/74f1ce49-d8ba-4408-8ad0-f40c6198b0a6" />
 
 ## Skills and experiences
 - Frontend web development
