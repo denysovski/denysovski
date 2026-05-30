@@ -2,7 +2,7 @@
 
 # Denay Szbolwo
 Web Designer · Frontend Developer · Brand Identity · Graphic Design
-📍 Czech Republic
+- 📍 Czech Republic
 > Open to Remote Work Worldwide
 
 ## About Me
