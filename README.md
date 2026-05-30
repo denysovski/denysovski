@@ -1,9 +1,7 @@
 <img src="https://github.com/denysovski/denysovski/blob/main/background.jpg"> 
 
 # Denay Szbolwo
-Web Designer · Frontend Developer · Brand Identity · Graphic Design
-- 📍 Czech Republic
-> Open to Remote Work Worldwide
+> Open to Remote Work Worldwide, Based in Czech Republic
 
 ## About Me
 Web design • Web Development • Graphic Design • Brand Identity
