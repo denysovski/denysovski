@@ -51,6 +51,8 @@ I'm open to **remote freelance commissions**. If you have an idea, I'll help you
 
 ## Latest project
 K-DERMA Brand identity along with complete webdesign and webdevelopment, functional admin dashboard & responsive UX/UI.
+Main repository with all the project fundamentals - https://github.com/denysovski/KDermaDentist
+Live preview of the complete website made - https://denysovski.github.io/KDermaDentist/
 
 <img width="4000" height="3000" alt="Bright_Stationery_Mockup_4" src="https://github.com/user-attachments/assets/86b5cf1b-3bbe-41c8-960a-4668052c8478" />
 <img width="3000" height="2000" alt="Showcase2" src="https://github.com/user-attachments/assets/8b7a7877-caf1-4ee8-8583-88bfbd8c5e13" />
