@@ -41,10 +41,12 @@ Networking Fundamentals • Cybersecurity Basics • Database Design • UML & S
 
 ## Certifications
 **Cambridge English B2**  
-Professional English proficiency for international work  
+Professional English proficiency for international work, Cambridge University Press & Assessment
 
 **CISCO Certification**  
-Networking and IT infrastructure fundamentals
+CCNA: Switching, Routing, and Wireless Essentials
+Linux Desktop Operating Systems
+CCNA: Introduction to Networks
 
 **Cybersecurity License**  
 security principles and cyber defense
