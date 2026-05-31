@@ -10,6 +10,11 @@ I specialize in building modern, performance optimized websites and crafting com
 Currently studying **Web Technologies at UPCE** while actively taking on freelance projects.  
 I integrate Artificial Intelligence into my workflow to push the quality of design and code further than traditional methods allow.
 
+<img height="200" alt="FerrariRaceDay" src="https://github.com/user-attachments/assets/2464cca5-57bd-4eed-82e6-9a0f1c4bc97a" />
+<img height="200" alt="ShoxAdNike" src="https://github.com/user-attachments/assets/c51498a2-3f55-4e31-bafb-7569e6ea7e72" />
+<img height="200" alt="FerrariPoster" src="https://github.com/user-attachments/assets/54beda86-d8c4-4eab-941a-58f10dd9ab86" />
+<img height="200" alt="MeganFoxAllEyes" src="https://github.com/user-attachments/assets/4c4984af-88a8-4a5c-a361-b6ad8cd876b2" />
+
 ## What I Do
 **Web Design**  
 Modern UI/UX focused on minimalism and user experience 
@@ -25,6 +30,10 @@ Digital assets, visual direction, marketing materials
 
 **AI-Integrated Workflows**  
 Leveraging AI at every step for smarter, faster results  
+
+<img height="300" alt="Lamborghini1_50" src="https://github.com/user-attachments/assets/3b1bcbae-fdd1-45d9-abf9-a5a45982937f" />
+<img height="300" alt="LaptopMockup_50" src="https://github.com/user-attachments/assets/c66b13ff-0132-4586-8ecf-3308474aadab" />
+
 
 ## Tech Stack
 **Frontend Development**  
