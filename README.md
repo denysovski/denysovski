@@ -31,8 +31,8 @@ Digital assets, visual direction, marketing materials
 **AI-Integrated Workflows**  
 Leveraging AI at every step for smarter, faster results  
 
-<img height="300" alt="Lamborghini1_50" src="https://github.com/user-attachments/assets/3b1bcbae-fdd1-45d9-abf9-a5a45982937f" />
-<img height="300" alt="LaptopMockup_50" src="https://github.com/user-attachments/assets/c66b13ff-0132-4586-8ecf-3308474aadab" />
+<img height="250" alt="Lamborghini1_50" src="https://github.com/user-attachments/assets/3b1bcbae-fdd1-45d9-abf9-a5a45982937f" />
+<img height="250" alt="LaptopMockup_50" src="https://github.com/user-attachments/assets/c66b13ff-0132-4586-8ecf-3308474aadab" />
 
 
 ## Tech Stack
