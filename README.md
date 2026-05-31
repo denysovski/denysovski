@@ -53,9 +53,9 @@ Networking Fundamentals • Cybersecurity Basics • Database Design • UML & S
 Professional English proficiency for international work, Cambridge University Press & Assessment
 
 **CISCO Certification**  
-CCNA: Switching, Routing, and Wireless Essentials
-Linux Desktop Operating Systems
-CCNA: Introduction to Networks
+CCNA: Switching, Routing, and Wireless Essentials  
+Linux Desktop Operating Systems  
+CCNA: Introduction to Networks  
 
 **Cybersecurity License**  
 security principles and cyber defense
