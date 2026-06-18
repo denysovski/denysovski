@@ -60,6 +60,9 @@ CCNA: Introduction to Networks
 **Cybersecurity License**  
 security principles and cyber defense
 
+**Google AI Essentials**
+efficient usage of artifical intelligence
+
 # Music and YouTube
 I’m also deeply involved in music. Since 2020, I’ve worked as a YouTube reposter, promoting and curating music content. This experience sharpened my sense for trending music (Phonk at the time). I created many valuable connections with Top artists from the industry.
 
