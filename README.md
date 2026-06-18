@@ -60,7 +60,7 @@ CCNA: Introduction to Networks
 **Cybersecurity License**  
 security principles and cyber defense
 
-**Google AI Essentials**
+**Google AI Essentials**  
 efficient usage of artifical intelligence
 
 # Music and YouTube
