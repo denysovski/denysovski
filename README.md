@@ -28,8 +28,8 @@ Digital assets, visual direction, marketing materials
 **AI-Integrated Workflows**  
 Leveraging AI at every step for smarter, faster results  
 
-<img height="250" alt="Modernity Ray Preview" src="https://github.com/user-attachments/assets/ce7e43f4-261c-4ddc-98fd-13a686beb433" />
-<img height="250" alt="Modernity Ray Preview" src="https://github.com/user-attachments/assets/46b7b59b-959a-4665-8a36-958cc801ad3c" />
+<img height="200" alt="Modernity Ray Preview" src="https://github.com/user-attachments/assets/ce7e43f4-261c-4ddc-98fd-13a686beb433" />
+<img height="200" alt="Modernity Ray Preview" src="https://github.com/user-attachments/assets/46b7b59b-959a-4665-8a36-958cc801ad3c" />
 
 
 ## Tech Stack
