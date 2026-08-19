@@ -10,10 +10,7 @@ I specialize in building modern, performance optimized websites and crafting com
 Currently studying **Web Technologies at UPCE** while actively taking on freelance projects.  
 I integrate Artificial Intelligence into my workflow to push the quality of design and code further than traditional methods allow.
 
-<img height="200" alt="FerrariRaceDay" src="https://github.com/user-attachments/assets/2464cca5-57bd-4eed-82e6-9a0f1c4bc97a" />
-<img height="200" alt="ShoxAdNike" src="https://github.com/user-attachments/assets/c51498a2-3f55-4e31-bafb-7569e6ea7e72" />
-<img height="200" alt="FerrariPoster" src="https://github.com/user-attachments/assets/54beda86-d8c4-4eab-941a-58f10dd9ab86" />
-<img height="200" alt="MeganFoxAllEyes" src="https://github.com/user-attachments/assets/4c4984af-88a8-4a5c-a361-b6ad8cd876b2" />
+<img width="1904" height="951" alt="wewejwej" src="https://github.com/user-attachments/assets/0b2c5841-9896-423c-8467-4f15ede47002" />
 
 ## What I Do
 **Web Design**  
@@ -31,8 +28,8 @@ Digital assets, visual direction, marketing materials
 **AI-Integrated Workflows**  
 Leveraging AI at every step for smarter, faster results  
 
-<img height="250" alt="Lamborghini1_50" src="https://github.com/user-attachments/assets/3b1bcbae-fdd1-45d9-abf9-a5a45982937f" />
-<img height="250" alt="LaptopMockup_50" src="https://github.com/user-attachments/assets/c66b13ff-0132-4586-8ecf-3308474aadab" />
+<img height="250" alt="Modernity Ray Preview" src="https://github.com/user-attachments/assets/ce7e43f4-261c-4ddc-98fd-13a686beb433" />
+<img height="250" alt="Modernity Ray Preview" src="https://github.com/user-attachments/assets/46b7b59b-959a-4665-8a36-958cc801ad3c" />
 
 
 ## Tech Stack
@@ -67,6 +64,7 @@ efficient usage of artifical intelligence
 I’m also deeply involved in music. Since 2020, I’ve worked as a YouTube reposter, promoting and curating music content. This experience sharpened my sense for trending music (Phonk at the time). I created many valuable connections with Top artists from the industry.
 
 ![ggs](https://github.com/user-attachments/assets/bbf07e62-3bdc-4303-a404-d9ed24784159)
+
 
 # Instagram content 
 Beyond development and design, I create high-performing Instagram content. For over a year, my content has consistently reached 2 million views every month, generating around 500,000 user interactions monthly. I focus on bold, controversial, and engaging topics designed to drive attention and discussion at scale. Proof of understanding virality, content strategy, and social media algorithms
