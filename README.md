@@ -7,11 +7,11 @@ I specialize in building modern, performance optimized websites and crafting com
 Currently studying **Web Technologies at UPCE** while actively taking on freelance projects. I integrate Artificial Intelligence into my workflow to push the quality of design and code further than traditional methods allow.
 
 <p>
+  <a href="https://www.instagram.com/denysovski2" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/instagram-light.svg"><img src="assets/icons/instagram-dark.svg" width="28" height="28" alt="Instagram"></picture></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/denysovski/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-light.svg"><img src="assets/icons/linkedin-dark.svg" width="28" height="28" alt="LinkedIn"></picture></a>
   &nbsp;
   <a href="https://www.behance.net/denysovski" title="Behance"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/behance-light.svg"><img src="assets/icons/behance-dark.svg" width="28" height="28" alt="Behance"></picture></a>
-  &nbsp;
-  <a href="https://www.instagram.com/denysovski2" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/instagram-light.svg"><img src="assets/icons/instagram-dark.svg" width="28" height="28" alt="Instagram"></picture></a>
 </p>
 
 ## What I Do
@@ -35,40 +35,54 @@ Lately I focus on scroll-driven motion, editorial layouts, full shop and booking
 
 ### NATURIK
 
-<a href="https://denysovski.github.io/NATURIK/"><img src="assets/naturik.jpg" width="100%" alt="NATURIK drop store"></a>
+<a href="https://denysovski.github.io/NATURIK/"><img src="assets/naturik.jpg" width="100%" alt="NATURIK"></a>
 
 One-product drop store for a limited, numbered puffer jacket. Scroll-driven photo stage, 3D objects rendered only when on screen, full shop with filters, size finder and a 4-step demo checkout.
 
-Vite · JavaScript · GSAP · Lenis · Three.js — [Live](https://denysovski.github.io/NATURIK/) · [Code](https://github.com/denysovski/NATURIK)
+**Vite · JavaScript · GSAP · Lenis · Three.js**
+
+[Live](https://denysovski.github.io/NATURIK/) · [Code](https://github.com/denysovski/NATURIK)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://denysovski.github.io/ModernityRay/"><img src="assets/modernity-ray.jpg" width="100%" alt="Modernity Ray"></a>
-      <p><b>Modernity Ray</b><br>Website and booking system for a private sport club. Memberships, court booking, events, e-shop and a validated 4-step checkout.</p>
-      <p>React · Vite · React Router · Framer Motion<br><a href="https://denysovski.github.io/ModernityRay/">Live</a> · <a href="https://github.com/denysovski/ModernityRay">Code</a></p>
+      <a href="https://denysovski.github.io/ModernityRay/"><img src="assets/courtsy.jpg" width="100%" alt="COURTSY"></a>
+      <p><b>COURTSY</b><br>Website and booking system for a private sport club. Memberships, court booking, events, e-shop and a validated 4-step checkout.</p>
+      <p><b>React · Vite · React Router · Framer Motion</b><br><a href="https://denysovski.github.io/ModernityRay/">Live</a> · <a href="https://github.com/denysovski/ModernityRay">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://denysovski.github.io/KondoruArch/"><img src="assets/kondoru.jpg" width="100%" alt="Kondoru"></a>
-      <p><b>Kondoru</b><br>Editorial property and architecture site. 18 residences with detail pages, client-side search, image pipeline and a full SEO layer.</p>
-      <p>Next.js · React · TypeScript · Tailwind CSS<br><a href="https://denysovski.github.io/KondoruArch/">Live</a> · <a href="https://github.com/denysovski/KondoruArch">Code</a></p>
+      <a href="https://denysovski.github.io/KondoruArch/"><img src="assets/kondoru.jpg" width="100%" alt="KONDORU"></a>
+      <p><b>KONDORU</b><br>Editorial property and architecture site. 18 residences with detail pages, client-side search, image pipeline and a full SEO layer.</p>
+      <p><b>Next.js · React · TypeScript · Tailwind CSS</b><br><a href="https://denysovski.github.io/KondoruArch/">Live</a> · <a href="https://github.com/denysovski/KondoruArch">Code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://denysovski.github.io/KDermaDentist/"><img src="https://github.com/user-attachments/assets/86b5cf1b-3bbe-41c8-960a-4668052c8478" width="100%" alt="K-DERMA brand identity"></a>
+      <a href="https://denysovski.github.io/KDermaDentist/"><img src="https://github.com/user-attachments/assets/86b5cf1b-3bbe-41c8-960a-4668052c8478" width="100%" alt="K-DERMA"></a>
       <p><b>K-DERMA</b><br>Brand identity, web design and development for an orthodontic clinic, with an admin dashboard for articles and schedules.</p>
-      <p>React · TypeScript · Tailwind CSS · Express<br><a href="https://denysovski.github.io/KDermaDentist/">Live</a> · <a href="https://github.com/denysovski/KDermaDentist">Code</a></p>
+      <p><b>React · TypeScript · Tailwind CSS · Express</b><br><a href="https://denysovski.github.io/KDermaDentist/">Live</a> · <a href="https://github.com/denysovski/KDermaDentist">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://denysovski.github.io/TeslaFuturistic/"><img src="assets/tesla-futuristic.jpg" width="100%" alt="Tesla Futuristic"></a>
-      <p><b>Tesla Futuristic</b><br>Unofficial concept product page. Interactive vehicle showcase, energy ecosystem, performance panels and a test drive flow.</p>
-      <p>React · Vite · Tailwind CSS · GSAP<br><a href="https://denysovski.github.io/TeslaFuturistic/">Live</a> · <a href="https://github.com/denysovski/TeslaFuturistic">Code</a></p>
+      <a href="https://denysovski.github.io/TeslaFuturistic/"><img src="assets/tesla-futuristic.jpg" width="100%" alt="TESLA FUTURISTIC"></a>
+      <p><b>TESLA FUTURISTIC</b><br>Unofficial concept product page. Interactive vehicle showcase, energy ecosystem, performance panels and a test drive flow.</p>
+      <p><b>React · Vite · Tailwind CSS · GSAP</b><br><a href="https://denysovski.github.io/TeslaFuturistic/">Live</a> · <a href="https://github.com/denysovski/TeslaFuturistic">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://denysovski.github.io/CheckIt/"><img src="assets/check-it.jpg" width="100%" alt="CHECK IT"></a>
+      <p><b>CHECK IT</b><br>Calm daily checklist with custom rhythms, notes, calendar, stats and export. Runs fully in the browser, no server and no tracking.</p>
+      <p><b>JavaScript · GSAP · Lenis · IndexedDB · PWA</b><br><a href="https://denysovski.github.io/CheckIt/">Live</a> · <a href="https://github.com/denysovski/CheckIt">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://denysovski.github.io/ReRoot/"><img src="assets/reroot.jpg" width="100%" alt="RE:ROOT"></a>
+      <p><b>RE:ROOT</b><br>Private habit tracker for quitting bad habits. Daily check-ins, streak and urge charts, diary, reminders and CSS 3D scenes.</p>
+      <p><b>HTML · CSS · JavaScript · CSS 3D · PWA</b><br><a href="https://denysovski.github.io/ReRoot/">Live</a> · <a href="https://github.com/denysovski/ReRoot">Code</a></p>
     </td>
   </tr>
 </table>
 
-Also: [Check It](https://github.com/denysovski/CheckIt) — private daily checklist · [Re:Root](https://github.com/denysovski/ReRoot) — habit tracker. More graphic design work on [Behance](https://www.behance.net/denysovski).
+More graphic design work on [Behance](https://www.behance.net/denysovski).
 
 ## Music and YouTube
 
