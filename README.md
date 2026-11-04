@@ -39,7 +39,7 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
 
 **Vite · JavaScript · GSAP · Lenis · Three.js**
 
-<p><a href="https://denysovski.github.io/NATURIK/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/live-light.svg"><img src="assets/buttons/live-dark.svg" height="32" alt="Live"></picture></a>&nbsp;<a href="https://github.com/denysovski/NATURIK" title="Code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/code-light.svg"><img src="assets/buttons/code-dark.svg" height="32" alt="Code"></picture></a></p>
+<p><a href="https://denysovski.github.io/NATURIK/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/NATURIK" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a></p>
 
 <br>
 
@@ -60,10 +60,10 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
   </tr>
   <tr>
     <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/ModernityRay/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/live-light.svg"><img src="assets/buttons/live-dark.svg" height="32" alt="Live"></picture></a>&nbsp;<a href="https://github.com/denysovski/ModernityRay" title="Code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/code-light.svg"><img src="assets/buttons/code-dark.svg" height="32" alt="Code"></picture></a>
+      <a href="https://denysovski.github.io/ModernityRay/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/ModernityRay" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
     </td>
     <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/KondoruArch/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/live-light.svg"><img src="assets/buttons/live-dark.svg" height="32" alt="Live"></picture></a>&nbsp;<a href="https://github.com/denysovski/KondoruArch" title="Code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/code-light.svg"><img src="assets/buttons/code-dark.svg" height="32" alt="Code"></picture></a>
+      <a href="https://denysovski.github.io/KondoruArch/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/KondoruArch" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
     </td>
   </tr>
 </table>
@@ -87,10 +87,10 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
   </tr>
   <tr>
     <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/KDermaDentist/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/live-light.svg"><img src="assets/buttons/live-dark.svg" height="32" alt="Live"></picture></a>&nbsp;<a href="https://github.com/denysovski/KDermaDentist" title="Code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/code-light.svg"><img src="assets/buttons/code-dark.svg" height="32" alt="Code"></picture></a>
+      <a href="https://denysovski.github.io/KDermaDentist/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/KDermaDentist" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
     </td>
     <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/TeslaFuturistic/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/live-light.svg"><img src="assets/buttons/live-dark.svg" height="32" alt="Live"></picture></a>&nbsp;<a href="https://github.com/denysovski/TeslaFuturistic" title="Code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/code-light.svg"><img src="assets/buttons/code-dark.svg" height="32" alt="Code"></picture></a>
+      <a href="https://denysovski.github.io/TeslaFuturistic/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/TeslaFuturistic" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
     </td>
   </tr>
 </table>
@@ -114,10 +114,10 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
   </tr>
   <tr>
     <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/CheckIt/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/live-light.svg"><img src="assets/buttons/live-dark.svg" height="32" alt="Live"></picture></a>&nbsp;<a href="https://github.com/denysovski/CheckIt" title="Code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/code-light.svg"><img src="assets/buttons/code-dark.svg" height="32" alt="Code"></picture></a>
+      <a href="https://denysovski.github.io/CheckIt/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/CheckIt" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
     </td>
     <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/ReRoot/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/live-light.svg"><img src="assets/buttons/live-dark.svg" height="32" alt="Live"></picture></a>&nbsp;<a href="https://github.com/denysovski/ReRoot" title="Code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/code-light.svg"><img src="assets/buttons/code-dark.svg" height="32" alt="Code"></picture></a>
+      <a href="https://denysovski.github.io/ReRoot/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/ReRoot" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
     </td>
   </tr>
 </table>
