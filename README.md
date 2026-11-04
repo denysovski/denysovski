@@ -74,8 +74,8 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
       <p><a href="https://denysovski.github.io/KDermaDentist/"><img src="assets/buttons/live-blue.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/KDermaDentist" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://denysovski.github.io/TeslaFuturistic/"><img src="assets/tesla-futuristic.jpg" width="100%" alt="TESLA FUTURISTIC"></a>
-      <h3>TESLA FUTURISTIC</h3>
+      <a href="https://denysovski.github.io/TeslaFuturistic/"><img src="assets/tesla-futuristic.jpg" width="100%" alt="TESLAX"></a>
+      <h3>TESLAX</h3>
       <p>Unofficial concept product page. Vehicle showcase, energy ecosystem, performance panels and a test drive flow.</p>
       <p><b>React · Vite · Tailwind CSS · GSAP</b></p>
       <p><a href="https://denysovski.github.io/TeslaFuturistic/"><img src="assets/buttons/live-blue.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/TeslaFuturistic" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
