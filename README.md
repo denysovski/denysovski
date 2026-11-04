@@ -6,9 +6,13 @@ I specialize in building modern, performance optimized websites and crafting com
 
 Currently studying **Web Technologies at UPCE** while actively taking on freelance projects. I integrate Artificial Intelligence into my workflow to push the quality of design and code further than traditional methods allow.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge)](https://www.linkedin.com/in/denysovski/)
-[![Behance](https://img.shields.io/badge/Behance-111111?style=for-the-badge)](https://www.behance.net/denysovski)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge)](https://www.instagram.com/denysovski2)
+<p>
+  <a href="https://www.linkedin.com/in/denysovski/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-light.svg"><img src="assets/icons/linkedin-dark.svg" width="28" height="28" alt="LinkedIn"></picture></a>
+  &nbsp;
+  <a href="https://www.behance.net/denysovski" title="Behance"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/behance-light.svg"><img src="assets/icons/behance-dark.svg" width="28" height="28" alt="Behance"></picture></a>
+  &nbsp;
+  <a href="https://www.instagram.com/denysovski2" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/instagram-light.svg"><img src="assets/icons/instagram-dark.svg" width="28" height="28" alt="Instagram"></picture></a>
+</p>
 
 ## What I Do
 
