@@ -114,6 +114,9 @@ Since 2020 I have worked as a YouTube reposter, promoting and curating music con
 
 <img src="https://github.com/user-attachments/assets/bbf07e62-3bdc-4303-a404-d9ed24784159" width="100%" alt="YouTube channel">
 
-## Instagram
+## Instagram and Facebook
 
-For over a year my content has consistently reached 2 million views every month, with around 500,000 interactions monthly. Bold, engaging topics built to drive attention and discussion at scale, backed by a practical understanding of virality, content strategy and social media algorithms.
+- **25 million views** on Instagram over one year
+- **3 million views** on Facebook in the past three months of 2026
+
+My content consistently reaches around 2 million views and 500,000 interactions every month. Bold, engaging topics built to drive attention and discussion at scale, backed by a practical understanding of virality, content strategy and social media algorithms.
