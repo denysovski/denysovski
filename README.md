@@ -48,22 +48,16 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
     <td width="50%" valign="top">
       <a href="https://denysovski.github.io/ModernityRay/"><img src="assets/courtsy.jpg" width="100%" alt="COURTSY"></a>
       <h3>COURTSY</h3>
-      <p>Website and booking system for a private sport club. Memberships, court booking, events, e-shop and a validated 4-step checkout.</p>
-      <p><b>React · Vite · React Router · Framer Motion</b></p>
+      <p>Website and booking system for a private sport club. Memberships, court booking, events, e-shop and a 4-step checkout.</p>
+      <p><b>React · Vite · Router · Framer Motion</b></p>
+      <p><a href="https://denysovski.github.io/ModernityRay/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/ModernityRay" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://denysovski.github.io/KondoruArch/"><img src="assets/kondoru.jpg" width="100%" alt="KONDORU"></a>
       <h3>KONDORU</h3>
-      <p>Editorial property and architecture site. 18 residences with detail pages, client-side search, image pipeline and a full SEO layer.</p>
-      <p><b>Next.js · React · TypeScript · Tailwind CSS</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/ModernityRay/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/ModernityRay" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
-    </td>
-    <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/KondoruArch/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/KondoruArch" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
+      <p>Editorial property and architecture site. 18 residences with detail pages, client-side search and a full SEO layer.</p>
+      <p><b>Next.js · React · TypeScript · Tailwind</b></p>
+      <p><a href="https://denysovski.github.io/KondoruArch/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/KondoruArch" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a></p>
     </td>
   </tr>
 </table>
@@ -75,22 +69,16 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
     <td width="50%" valign="top">
       <a href="https://denysovski.github.io/KDermaDentist/"><img src="https://github.com/user-attachments/assets/86b5cf1b-3bbe-41c8-960a-4668052c8478" width="100%" alt="K-DERMA"></a>
       <h3>K-DERMA</h3>
-      <p>Brand identity, web design and development for an orthodontic clinic, with an admin dashboard for articles and schedules.</p>
-      <p><b>React · TypeScript · Tailwind CSS · Express</b></p>
+      <p>Brand identity, web design and development for an orthodontic clinic, with an admin dashboard for articles.</p>
+      <p><b>React · TypeScript · Tailwind · Express</b></p>
+      <p><a href="https://denysovski.github.io/KDermaDentist/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/KDermaDentist" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://denysovski.github.io/TeslaFuturistic/"><img src="assets/tesla-futuristic.jpg" width="100%" alt="TESLA FUTURISTIC"></a>
       <h3>TESLA FUTURISTIC</h3>
-      <p>Unofficial concept product page. Interactive vehicle showcase, energy ecosystem, performance panels and a test drive flow.</p>
+      <p>Unofficial concept product page. Vehicle showcase, energy ecosystem, performance panels and a test drive flow.</p>
       <p><b>React · Vite · Tailwind CSS · GSAP</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/KDermaDentist/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/KDermaDentist" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
-    </td>
-    <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/TeslaFuturistic/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/TeslaFuturistic" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
+      <p><a href="https://denysovski.github.io/TeslaFuturistic/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/TeslaFuturistic" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a></p>
     </td>
   </tr>
 </table>
@@ -102,22 +90,16 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
     <td width="50%" valign="top">
       <a href="https://denysovski.github.io/CheckIt/"><img src="assets/check-it.jpg" width="100%" alt="CHECK IT"></a>
       <h3>CHECK IT</h3>
-      <p>Calm daily checklist with custom rhythms, notes, calendar, stats and export. Runs fully in the browser, no server and no tracking.</p>
-      <p><b>JavaScript · GSAP · Lenis · IndexedDB · PWA</b></p>
+      <p>Calm daily checklist with custom rhythms, notes, calendar, stats and export. Runs fully in the browser, no tracking.</p>
+      <p><b>JavaScript · GSAP · Lenis · PWA</b></p>
+      <p><a href="https://denysovski.github.io/CheckIt/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/CheckIt" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://denysovski.github.io/ReRoot/"><img src="assets/reroot.jpg" width="100%" alt="RE:ROOT"></a>
       <h3>RE:ROOT</h3>
-      <p>Private habit tracker for quitting bad habits. Daily check-ins, streak and urge charts, diary, reminders and CSS 3D scenes.</p>
-      <p><b>HTML · CSS · JavaScript · CSS 3D · PWA</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/CheckIt/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/CheckIt" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
-    </td>
-    <td width="50%" valign="bottom">
-      <a href="https://denysovski.github.io/ReRoot/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/ReRoot" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a>
+      <p>Private habit tracker for quitting bad habits. Daily check-ins, streak and urge charts, diary and reminders.</p>
+      <p><b>HTML · CSS · JavaScript · PWA</b></p>
+      <p><a href="https://denysovski.github.io/ReRoot/"><img src="assets/buttons/live.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/ReRoot" title="Code"><img src="assets/buttons/code.svg" height="32" alt="Code"></a></p>
     </td>
   </tr>
 </table>
