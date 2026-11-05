@@ -33,7 +33,7 @@ Lately I focus on scroll-driven motion, editorial layouts, full shop and booking
 
 ### NATURIK
 
-<a href="https://denysovski.github.io/NATURIK/"><img src="assets/naturik.jpg" width="100%" alt="NATURIK"></a>
+<a href="https://denysovski.github.io/NATURIK/"><img src="assets/naturik-v2.jpg" width="100%" alt="NATURIK"></a>
 
 One-product drop store for a limited, numbered puffer jacket. Scroll-driven photo stage, 3D objects rendered only when on screen, full shop with filters, size finder and a 4-step demo checkout.
 
