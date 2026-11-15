@@ -90,7 +90,7 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
     <td width="50%" valign="top">
       <a href="https://denysovski.github.io/CheckIt/"><img src="assets/check-it.jpg" width="100%" alt="CHECK IT"></a>
       <h3>CHECK IT</h3>
-      <p>Calm daily checklist with custom rhythms, notes, calendar, stats and export. Runs fully in the browser, no tracking.</p>
+      <p>Calm daily checklist with a week planner, calendar, mood journal, notes, stats and weekly recaps. Runs fully in the browser, no tracking.</p>
       <p><b>JavaScript · GSAP · Lenis · PWA</b></p>
       <p><a href="https://denysovski.github.io/CheckIt/"><img src="assets/buttons/live-blue.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/CheckIt" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
     </td>
