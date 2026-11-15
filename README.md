@@ -46,6 +46,27 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://denysovski.github.io/VaultX/"><img src="assets/vaultx.jpg" width="100%" alt="VAULTX"></a>
+      <h3>VAULTX</h3>
+      <p>Black and white dystopian streetwear store. Glitch video hero with tracker boxes, shop with filters, accounts in the browser and a custom checkout.</p>
+      <p><b>React · TypeScript · Vite · Canvas</b></p>
+      <p><a href="https://denysovski.github.io/VaultX/"><img src="assets/buttons/live-blue.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/VaultX" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/denysovski/XSlop"><img src="assets/xslop.jpg" width="100%" alt="XSLOP"></a>
+      <h3>XSLOP</h3>
+      <p>Skill sheet for AI agents: 167 rules against AI slop, style keywords from my Pinterest board and a step-by-step workflow from research to launch.</p>
+      <p><b>Markdown · Agent skill · Three.js</b></p>
+      <p><a href="https://github.com/denysovski/XSlop" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://denysovski.github.io/ModernityRay/"><img src="assets/courtsy.jpg" width="100%" alt="COURTSY"></a>
       <h3>COURTSY</h3>
       <p>Website and booking system for a private sport club. Memberships, booking, events, e-shop and a checkout.</p>
