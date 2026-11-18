@@ -111,7 +111,7 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
     <td width="50%" valign="top">
       <a href="https://denysovski.github.io/VaultX/"><img src="assets/vaultx.jpg" width="100%" alt="VAULTX"></a>
       <h3>VAULTX</h3>
-      <p>Black and white dystopian streetwear store. Glitch video hero with tracker boxes, shop with filters, accounts in the browser and a custom checkout.</p>
+      <p>Black and white dystopian streetwear store. Video hero with tracker boxes on the clothes, shop with filters, a drop page, accounts in the browser and a custom checkout.</p>
       <p><b>React · TypeScript · Vite · Canvas</b></p>
       <p><a href="https://denysovski.github.io/VaultX/"><img src="assets/buttons/live-blue.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/VaultX" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
     </td>
