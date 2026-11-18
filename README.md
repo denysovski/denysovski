@@ -116,11 +116,11 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
       <p><a href="https://denysovski.github.io/VaultX/"><img src="assets/buttons/live-blue.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/VaultX" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/denysovski/XSlop"><img src="assets/xslop.jpg" width="100%" alt="XSLOP"></a>
-      <h3>XSLOP</h3>
-      <p>Skill sheet for AI agents: 167 rules against AI slop, style keywords from my Pinterest board and a step-by-step workflow from research to launch.</p>
-      <p><b>Markdown · Agent skill · Three.js</b></p>
-      <p><a href="https://github.com/denysovski/XSlop" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
+      <a href="https://github.com/denysovski/ProUI"><img src="assets/proui.jpg" width="100%" alt="PROUI"></a>
+      <h3>PROUI</h3>
+      <p>Playbook skill for AI agents that build beautiful websites: site blueprints, colour and type methods, effect kits, a workflow from brief to launch and 24 rulebooks with 576 rules.</p>
+      <p><b>Markdown · Agent skill · GSAP · Motion</b></p>
+      <p><a href="https://agensi.io/skills/proui"><img src="assets/buttons/live-blue.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/ProUI" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
     </td>
   </tr>
 </table>
