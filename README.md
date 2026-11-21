@@ -127,6 +127,21 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
 
 <br>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://denysovski.github.io/HMOTA/"><img src="assets/hmota.jpg" width="100%" alt="HMOTA"></a>
+      <h3>HMOTA</h3>
+      <p>Architecture studio website. A building that assembles itself as you scroll, from plan to section, massing, material and evening light, plus a 3D map of the studio's work across Czechia.</p>
+      <p><b>Next.js · React Three Fiber · GSAP · Lenis</b></p>
+      <p><a href="https://denysovski.github.io/HMOTA/"><img src="assets/buttons/live-blue.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/HMOTA" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+<br>
+
 More graphic design work on [Behance](https://www.behance.net/denysovski).
 
 ## Music and YouTube
