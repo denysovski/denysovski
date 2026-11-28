@@ -139,7 +139,7 @@ One-product drop store for a limited, numbered puffer jacket. Scroll-driven phot
     <td width="50%" valign="top">
       <a href="https://denysovski.github.io/BrandIt/studio/"><img src="assets/brandit.jpg" width="100%" alt="BRANDIT STUDIO"></a>
       <h3>BRANDIT STUDIO</h3>
-      <p>Browser studio for social media ads. 221 templates in 13 formats, 40 fonts, an editor with rulers and magnetic guides, packs of matching posts, projects and brands, all saved in the browser.</p>
+      <p>Browser studio for social media ads. 253 templates in 13 formats, 40 fonts, an editor with rulers and magnetic guides, packs of matching posts, projects and brands, all saved in the browser.</p>
       <p><b>HTML · CSS · JavaScript · Container queries</b></p>
       <p><a href="https://denysovski.github.io/BrandIt/studio/"><img src="assets/buttons/live-blue.svg" height="32" alt="Live"></a>&nbsp;<a href="https://github.com/denysovski/BrandIt" title="Code"><img src="assets/buttons/repo-white.svg" height="32" alt="Code"></a></p>
     </td>
